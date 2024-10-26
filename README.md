@@ -5,4 +5,4 @@ This repo is a trial part of analyser of opensandbox phase 1 which is used to an
 # how to use
 Use main.py
 
-Note: This repo is just a trial for proof of concept and it just created by using of gemini free trial version, to keep the call rate and token rate in limit files are not analysed in workflow analyses part(partial analysis for overview) but complete analysis is done in file parts in chat session and directory,files analyses part.This is not production ready code.
+Note: This repo is just a trial for proof of concept and it just created by using of gemini free trial version, to keep the call rate and token rate in limit ,files are not  completely analysed in workflow analyses part(partial analysis for overview) but complete analysis is done in file parts in chat session and directory,files analyses part.This is not production ready code.
