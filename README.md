@@ -6,3 +6,7 @@ This repo is a trial part of analyser of opensandbox phase 1 which is used to an
 Use main.py
 
 Note: This repo is just a trial for proof of concept and it just created by using of gemini free trial version, to keep the call rate and token rate in limit ,files are not  completely analysed in workflow analyses part(partial analysis for overview) but complete analysis is done in file parts in chat session and directory,files analyses part.This is not production ready code.
+![1](https://github.com/user-attachments/assets/c4ca2c24-fcf8-4cb7-a99d-85ce74c844fa)
+![3](https://github.com/user-attachments/assets/76b85ff2-3aaa-4fc5-90ac-77c6d06cc9d5)
+![5](https://github.com/user-attachments/assets/0636bf64-9584-47da-99ab-6e4a9171a215)
+![6](https://github.com/user-attachments/assets/fe783099-f9af-4f13-a7ca-667f218a2a62)
