@@ -12,6 +12,7 @@ Note: This repo is just a trial for proof of concept and it just created by usin
 ![3](https://github.com/user-attachments/assets/76b85ff2-3aaa-4fc5-90ac-77c6d06cc9d5)
 ![5](https://github.com/user-attachments/assets/0636bf64-9584-47da-99ab-6e4a9171a215)
 ![6](https://github.com/user-attachments/assets/fe783099-f9af-4f13-a7ca-667f218a2a62)
+![new_one](https://github.com/user-attachments/assets/37cc7b84-965b-4d59-9d08-7935ea2cdcac)
 
 # Youtube Video
 https://www.youtube.com/watch?v=FDONk8adclk
